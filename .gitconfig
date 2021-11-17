@@ -1,0 +1,5 @@
+[user]
+   name = chancarlo
+   email = chancarlo@gmail.com
+[credential]
+   helper = store --file C:\Users\carlo.chan\OneDrive - bgeeng.com\Dev\.git-credentials
